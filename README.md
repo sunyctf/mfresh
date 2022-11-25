@@ -2,7 +2,8 @@
 
 #### 介绍
 
-- [预览](https://sunyctf.github.io/mfresh/index.html)
+- [Github仓库](https://github.com/sunyctf/mfresh) | [预览地址](https://sunyctf.github.io/mfresh/index.html)
+- [Gitee仓库](https://gitee.com/sunyctf/mfresh) | [预览地址](https://sunyctf.gitee.io/mfresh/index.html)
 
 #### 软件架构
 
